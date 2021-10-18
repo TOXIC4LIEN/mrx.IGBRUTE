@@ -18,7 +18,7 @@ Usage of Mrx-IG-WEAPON for attacking targets without prior mutual consent is ill
 
 ### Usage:
 ```
-https://github.com/MrxH4ckr/mrx.IGBRUTE.git
+git clone https://github.com/MrxH4ckr/mrx.IGBRUTE.git
 cd mrx.IGBRUTE
 chmod +x mrxinsta.sh
 service tor start
